@@ -1,0 +1,7 @@
+Put artist portrait images here.
+
+By default, name each image after the artist, in lowercase, with spaces changed to
+hyphens and use the .jpg extension. For other filenames or formats, configure the
+image path in the artistCovers object below the playlist in index.html.
+
+The artist cards use the song's cover image if an artist portrait is not found.
